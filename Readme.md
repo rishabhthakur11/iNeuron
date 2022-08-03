@@ -31,8 +31,9 @@ Although I wanted to make this page using React and Tailwind but I thought just 
 ![Laptop Mockup](./assets/SereenShots/laptop.png) 
 ![Laptop Mockup](./assets/SereenShots/laptop2.png) 
 
-![Mockup](./assets/SereenShots/1.png)
+![Mockup](./assets/SereenShots/1.png) 
 ![Mockup](./assets/SereenShots/2.png)
+
 
 
 
