@@ -31,8 +31,9 @@ Although I wanted to make this page using React and Tailwind but I thought just 
 ![Laptop Mockup](./assets/SereenShots/laptop.png) 
 ![Laptop Mockup](./assets/SereenShots/laptop2.png) 
 
-<img src = "assets/SereenShots/1.png" height="400" width = "200" >
-![Mockup](./assets/SereenShots/2.png)
+<img src = "assets/SereenShots/1.png" height="600" width = "300" align="center" >
+<img src = "assets/SereenShots/2.png" height="600" width = "300" align="center" >
+
 
 
 
