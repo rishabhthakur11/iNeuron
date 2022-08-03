@@ -3,7 +3,6 @@
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![name](https://img.shields.io/badge/Rishabh-Thakur-lightgrey)
 > [Demo](https://ineuronweb.vercel.app)
 
 Hi folks 👋🏻
@@ -28,11 +27,16 @@ Although I wanted to make this page using React and Tailwind but I thought just 
 
 ### Mockups
 ---
+
 ![Laptop Mockup](./assets/SereenShots/laptop.png) 
 ![Laptop Mockup](./assets/SereenShots/laptop2.png) 
 
-![Mockup](./assets/SereenShots/1.png) 
-![Mockup](./assets/SereenShots/2.png)
+<<<<<<< HEAD
+=======
+<img src = "assets/SereenShots/1.png" height="600" width = "400" align = "center" > <img src = "assets/SereenShots/2.png" height="600" width = "400" align = "center" > <img src = "assets/SereenShots/3.png" height="600" width = "400" align = "center" >
+
+
+>>>>>>> 2b36cf0f1bca440e743a0d745e435c279fbec332
 
 
 
